@@ -8,7 +8,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'static/img/logos/fcx-logo.png',
+  favicon: 'img/logos/fcx-logo.png',
   organizationName: 'ghrc-cloud', // Usually your GitHub org/user name.
   projectName: 'FCX-docs', // Usually your repo name.
   themeConfig: {
@@ -16,7 +16,7 @@ module.exports = {
       title: 'FCX Documentation',
       logo: {
         alt: 'My Site Logo',
-        src: 'static/img/logos/fcx-logo.png',
+        src: 'img/logos/fcx-logo.png',
       },
     },
     footer: {
