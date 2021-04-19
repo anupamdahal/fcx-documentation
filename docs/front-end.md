@@ -12,7 +12,7 @@ The public link to FCX is: https://ghrc.earthdata.nasa.gov/fcx/index.html.
 When you click on the link, FCX will begin to load and you will see this occurring with the FCX logo overlaid.
 
 <img
-  src="../static/img/frontend/fcx-overview-homepage.png"
+  src="/img/frontend/fcx-overview-homepage.png"
 />
 
 *Figure 1: Initial Field Campaign Explorer (FCX) loading page.*
@@ -26,7 +26,7 @@ California from Georgia.
 
 
 <img
-  src="../static/img/frontend/fcx-initial-load.png"
+  src="/img/frontend/fcx-initial-load.png"
 />
 
 *Figure 2: The initial view of FCX once it first initially loads.*
@@ -41,11 +41,11 @@ California from Georgia.
 >
 
   <img
-    src="../static/img/frontend/GOES-R-A.png"
+    src="/img/frontend/GOES-R-A.png"
   /> 
 
   <img
-    src="../static/img/frontend/GOES-R-B.png"
+    src="/img/frontend/GOES-R-B.png"
   /> 
 
   *Figure 3: Information available on the field campaign being viewd (GOES-R Post Launch Test in this example) that provides a short description of the campaign (top) and the available links for more information (below).*
@@ -79,7 +79,7 @@ The next part to view is the data selection pane. This defaults to the “Displa
 >
 
   <img
-    src="../static/img/frontend/data-selection-pane-initial.png"
+    src="/img/frontend/data-selection-pane-initial.png"
   />  
 
   *Figure 4: The initial view of data selection pane.*
@@ -104,7 +104,7 @@ In the example to the left, the Advanced Baseline Imager (ABI) is shown. The gre
   className="first"
 >
   <img
-  src="../static/img/frontend/GOES-R-Data-Selection-Pane.png"
+  src="/img/frontend/GOES-R-Data-Selection-Pane.png"
   />
 
   *Figure 5: Data selection pane under
@@ -139,7 +139,7 @@ className="side-by-side"
   className="second"
 >
 <img
-  src="../static/img/frontend/GOES-R-Settings.png"
+  src="/img/frontend/GOES-R-Settings.png"
 />
 
 *Figure 6: The data select pane under the "Settings" link.*

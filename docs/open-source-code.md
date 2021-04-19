@@ -20,7 +20,7 @@ The backend code is held at AWS EC2 and integrated and executed at an AWS EC2 in
   className="center"
 >
   <img
-    src="../static/img/userguide/open-source-code/architecture-in-cloud.png"
+    src="/img/userguide/open-source-code/architecture-in-cloud.png"
   />
 </div>
 

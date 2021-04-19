@@ -12,7 +12,7 @@ One major objective of the GOES-R PLT is to validate the GLM lightning detection
 <div
   className="center"
 >
-<img src="../static/img/userguide/fcx-use-case/assessment-of-glm-detection.png"/>
+<img src="/img/userguide/fcx-use-case/assessment-of-glm-detection.png"/>
 
 <em>
 Figure 3. An instant the FCX screenshot that captures lightning detection from various instruments aboard the FORE-R (GLM), ISS (LIS), ER-2 (LIP, FEGS) ground network (Oklahoma LMA) at the ISS overpass on May 17. 2017. Also shown are the CRS radar reflectivity and underlying enhancedbrightness temperature imagery of the IR channel 13 from FOES-R ABI. The flight track in forest-green is a permanent fixture to offer a reference of scale and coordination in horizontal.
@@ -33,7 +33,7 @@ Being the first space-borne remote-sensing instrument that monitors lightning co
 <div
   className="center"
 >
-<img src="../static/img/userguide/fcx-use-case/lightning-observation-by-glm.png"/>
+<img src="/img/userguide/fcx-use-case/lightning-observation-by-glm.png"/>
 
 <em>Figure 4.Elusive lightning incidence and activity observed by the GLM during a frontal strom development across the Northen Great Plains on May 17, 2017. Two panels show the detected minute-by-minute lightning activity on top of the strome convective core represented by the highlighted (purple) area of the GOES-R band-13 T_B imagery. Also shown in the OKLMA network (part of the 100 and 200 KM radius of the LMA range) at the left bottom corner of the snapshots.
 </em>
@@ -55,7 +55,7 @@ One of the weather systems surveyed during the GOES_R PLT was a spring frontal s
 <div
   className="center"
 >
-<img src="../static/img/userguide/fcx-use-case/storm-characteristics.png"/>
+<img src="/img/userguide/fcx-use-case/storm-characteristics.png"/>
 
 <em>
 Figure 5. Exploring different aspects of a thunderstorm. The CPL backscattering the fine ice particles at the cloud top while the CRS reflectivity shows the very dense ice cloud layer (and attenuated by the layer). Lightning detected by the LMA network indicates major lightning activity coincides with the strong ice cloud reflectivity. Somewhat strong intensive activity occurs between the major lightning layer (ice cloud) and the melting layer, indicating the mixed phase graupel.

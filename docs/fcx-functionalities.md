@@ -42,69 +42,69 @@ ABI IR TB imagery, highlighting the low end temperature with deep purple shades:
 <p>
 ABI IR T_B imagery, highlighting the low end temperature with deep purple shades]
 </p>
-<img src="../static/img/userguide/fcx-functionalities/color-scheme-1.png"/>
+<img src="/img/userguide/fcx-functionalities/color-scheme-1.png"/>
 </li>
 
 <li>
 <p>
 CRS reflectivity, using the color scheme commonly used for W-band radar reflectivity in published literature
 </p>
-<img src="../static/img/userguide/fcx-functionalities/color-scheme-2.png"/>
+<img src="/img/userguide/fcx-functionalities/color-scheme-2.png"/>
 </li>
 <li>
 <p>
 CBS Doppler velocity
 </p>
-<img src="../static/img/userguide/fcx-functionalities/color-scheme-3.png"/>
+<img src="/img/userguide/fcx-functionalities/color-scheme-3.png"/>
 </li>
 
 <li>
 <p>
 CPL attenuated total backscatter (1065 nm)
 </p>
-<img src="../static/img/userguide/fcx-functionalities/color-scheme-4.png"/>
+<img src="/img/userguide/fcx-functionalities/color-scheme-4.png"/>
 </li>
 
 <li>
 <p>
 FEGS FOV confines in semitransparent lemon-green rgba (150, 255, 50, 120)
 </p>
-<img src="../static/img/userguide/fcx-functionalities/color-scheme-5.png"/>
+<img src="/img/userguide/fcx-functionalities/color-scheme-5.png"/>
 </li>
 
 <li>
 <p>
 LIP electric vector in red rgba (255, 55, 55, 255)
 </p>
-<img src="../static/img/userguide/fcx-functionalities/color-scheme-6.png"/>
+<img src="/img/userguide/fcx-functionalities/color-scheme-6.png"/>
 </li>
 
 <li>
 <p>
 GLM detected lightning activity in cesium orange
 </p>
-<img src="../static/img/userguide/fcx-functionalities/color-scheme-7.png"/>
+<img src="/img/userguide/fcx-functionalities/color-scheme-7.png"/>
 </li>
 
 <li>
 <p>
 GLM detected lightning intensity in yellow rgba (255, 255, 100, 255)
 </p>
-<img src="../static/img/userguide/fcx-functionalities/color-scheme-8.png"/>
+<img src="/img/userguide/fcx-functionalities/color-scheme-8.png"/>
 </li>
 
 <li>
 <p>
 ISS-LIS detected lightning intensity in half-opaque light-green rgba (173 , 255  , 140, 153)
 </p>
-<img src="../static/img/userguide/fcx-functionalities/color-scheme-9.png"/>
+<img src="/img/userguide/fcx-functionalities/color-scheme-9.png"/>
 </li>
 
 <li>
 <p>
 LMA detected signals color-coded with altitude:
 </p>
-<img src="../static/img/userguide/fcx-functionalities/color-scheme-10.png"/>
+<img src="/img/userguide/fcx-functionalities/color-scheme-10.png"/>
 </li>
 
 </ul>
@@ -121,7 +121,7 @@ The menu bar is installed to assist FCX users to navigate the display, field cam
 <div
   className="center"
 >
-<img src="../static/img/userguide/fcx-functionalities/menu-bar.png"/>
+<img src="/img/userguide/fcx-functionalities/menu-bar.png"/>
 
 *Figure 1. FCX menu bar. The case and display layer selector, the dataset selector with links to the dataset's HyDRO page where field campaigned data are documented, categorized and archived at GHRC, and links to the descriptions of the field campaign.*
 </div>
