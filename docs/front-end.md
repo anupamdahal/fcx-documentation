@@ -158,14 +158,14 @@ Figure 7 shows a view when the “Follow Airplane” option has been toggled on.
 
 
 <img
-  src='../static/img/frontend/FCX-follow-airplane-option.png'
+  src='/img/frontend/FCX-follow-airplane-option.png'
 />
 
 *Figure 7: Field Campaign Explorer display when the follow airplane option has been toggled on.*
 
 
 <img
-  src='../static/img/frontend/FCX-basic-data-view-pane.png'
+  src='/img/frontend/FCX-basic-data-view-pane.png'
 />
 
 *Figure 8: Basic data viewer pane view in Field Campaign Explorer with the display help menu open.*
@@ -183,7 +183,7 @@ Figure 9 shows the data viewer pane if you click on the “Timeline” link in t
 </p>
 
 <img
-  src='../static/img/frontend/FCX-timeline-view.png'
+  src='/img/frontend/FCX-timeline-view.png'
 />
 
 *Figure 9: The 'Timeline' view of the data viewer pane that allows users to quickly when various observations are coincident.*

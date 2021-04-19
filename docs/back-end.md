@@ -29,13 +29,13 @@ Following the instructions to deploy your code to local system.
   <li> SECURITY_GROUP_ID</li>
 </ul>
   <img
-    src='../static/img/backend/evn.sh-example.png'
+    src='/img/backend/evn.sh-example.png'
   />
   <li> 
   Create a role to execute Zappa as shown below with permission boundary set to NGAPShRoleBoundary. Then create NASD ticket to request adding following trust relationship
   </li>
   <img
-  src='../static/img/backend/AWS-create-role.png'
+  src='/img/backend/AWS-create-role.png'
   />
 
   <code>
