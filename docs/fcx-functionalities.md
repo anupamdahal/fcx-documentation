@@ -119,7 +119,7 @@ The Timeline tabulates the GOES-R PLT datasets in the field campaign’s timefra
 The menu bar is installed to assist FCX users to navigate the display, field campaign events, datasets, and related information about the field campaign and the datasets.  It has two parts: the upper part for the optional external links selection; the bottom part for display selection and campaign data links and download. The default is on Campaign with the display selector for the parameters, shown in Fig. 1. Users can select or switch the display of parameters listed in the selector, to examine the physical variables and their interaction (examples see illustration in 2.1) by clicking on/off a parameter’s button.
 
 <div
-  class="center"
+  className="center"
 >
 <img src="../static/img/userguide/fcx-functionalities/menu-bar.png"/>
 

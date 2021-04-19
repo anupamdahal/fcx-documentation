@@ -3,14 +3,14 @@ module.exports = {
   
   title: 'FCX Documentation',
   tagline: 'FCX Documentation',
-  url: 'https://anupamdahal.github.io',
-  // baseUrl: '/fcx-documentation/',
+  url: 'https://ghrc-cloud.gitlab.io',
+  // baseUrl: '/FCX-docs/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'static/img/logos/fcx-logo.png',
-  organizationName: 'anupamdahal', // Usually your GitHub org/user name.
-  projectName: 'fcx-documentation', // Usually your repo name.
+  organizationName: 'ghrc-cloud', // Usually your GitHub org/user name.
+  projectName: 'FCX-docs', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'FCX Documentation',
@@ -19,52 +19,46 @@ module.exports = {
         src: 'static/img/logos/fcx-logo.png',
       },
     },
-    footer:{},
-    // footer: {
-    //   style: 'dark',
-    //   links: [
-    //     {
-    //       title: 'Docs',
-    //       items: [
-    //         {
-    //           label: 'Getting Started',
-    //           to: 'docs/',
-    //         },
-    //       ],
-    //     },
-    //     {
-    //       title: 'Community',
-    //       items: [
-    //         {
-    //           label: 'Stack Overflow',
-    //           href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-    //         },
-    //         {
-    //           label: 'Discord',
-    //           href: 'https://discordapp.com/invite/docusaurus',
-    //         },
-    //         {
-    //           label: 'Twitter',
-    //           href: 'https://twitter.com/docusaurus',
-    //         },
-    //       ],
-    //     },
-    //     {
-    //       title: 'More',
-    //       items: [
-    //         {
-    //           label: 'Blog',
-    //           to: 'blog',
-    //         },
-    //         {
-    //           label: 'GitHub',
-    //           href: 'https://github.com/facebook/docusaurus',
-    //         },
-    //       ],
-    //     },
-    //   ],
-    //   copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
-    // },
+    footer: {
+      style: 'dark',
+      links: [
+        {
+          title: 'Field Campaign Explorer',
+          items: [
+            {
+              label: 'FCX Home Page',
+              href: 'https://ghrc.earthdata.nasa.gov/fcx/index.html',
+            },
+          ],
+        },
+        {
+          title: 'Orginizations',
+          items: [
+            {
+              label: 'GHRC',
+              href: 'https://ghrc.nsstc.nasa.gov/home/',
+            },
+            {
+              label: 'ITSC',
+              href: 'https://www.itsc.uah.edu/home/',
+            },
+            {
+              label: 'UAH',
+              href: 'https://www.uah.edu/',
+            },
+          ],
+        },
+        {
+          title: 'More',
+          items: [
+            {
+              label: 'Gitlab',
+              href: 'https://gitlab.com/ghrc-cloud/fcx-backend',
+            },
+          ],
+        },
+      ],
+    },
   },
   presets: [
     [
@@ -75,14 +69,8 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/anupamdahal/fcx-documentation.git',
+            'https://github.com/anupamdahal/FCX-docs.git',
         },
-        // blog: {
-        //   showReadingTime: true,
-        //   // Please change this to your repo.
-        //   editUrl:
-        //     'https://github.com/facebook/docusaurus/edit/master/website/blog/',
-        // },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },

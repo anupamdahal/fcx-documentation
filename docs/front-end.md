@@ -33,11 +33,11 @@ California from Georgia.
 
 
 <div
-  class="side-by-side"
+  className="side-by-side"
 >
 
 <div
-  class='first'
+  className='first'
 >
 
   <img
@@ -53,7 +53,7 @@ California from Georgia.
 </div>
 
   <div
-    class='second'
+    className='second'
   >
   <p>
   Let us familiarize ourselves with the FCX layout. The upper left contains information on the field campaign that is currently active. In this case, it is the GOES-R PLT. When you click on this window, you can scroll and read information about the GOES-R PLT. When you click on the “Links” option in this window, it provides various links for you to access to more information about the field campaign including the landing page, GOES-R PLT micro article, campaign description, and the list of instruments for the campaign. The landing page offers the most extensive option to further explore the details of the campaign with links to each published dataset’s landing page that will enable you to access data downloads, user guides, and associated micro articles.
@@ -61,11 +61,11 @@ California from Georgia.
   </p>
 
 <div
-  class="side-by-side"
+  className="side-by-side"
 >
 
 <div
-  class='first'
+  className='first'
 >
 
 <p>
@@ -75,7 +75,7 @@ The next part to view is the data selection pane. This defaults to the “Displa
 </div>
 
 <div
-  class='second'
+  className='second'
 >
 
   <img
@@ -97,11 +97,11 @@ In the example to the left, the Advanced Baseline Imager (ABI) is shown. The gre
 
 
 <div
-  class="side-by-side"
+  className="side-by-side"
 >
 
 <div
-  class="first"
+  className="first"
 >
   <img
   src="../static/img/frontend/GOES-R-Data-Selection-Pane.png"
@@ -114,7 +114,7 @@ In the example to the left, the Advanced Baseline Imager (ABI) is shown. The gre
   </div>
 
 <div
-  class="second"
+  className="second"
 >
 <p>
 Staying within the data selection pane, you can click on the “Data” link,
@@ -124,11 +124,11 @@ this moment.
 </p>
 
 <div
-class="side-by-side"
+className="side-by-side"
 >
 
 <div
-  class="first"
+  className="first"
 >
   <p>
   Lastly, within the data selection pane, you can click on the “Settings” link, highlighted in blue in the image to the right. This has two options that users may adjust. The first option is to toggle the display to follow the aircraft during visualization or to maintain a fixed viewing location. The fixed viewing location is the Figure 6: The data select pane under the default setting for FCX as seen in Figure 2. "Settings" link.
@@ -136,7 +136,7 @@ class="side-by-side"
 </div>
 
 <div
-  class="second"
+  className="second"
 >
 <img
   src="../static/img/frontend/GOES-R-Settings.png"

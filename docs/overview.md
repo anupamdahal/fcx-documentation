@@ -30,70 +30,93 @@ Ten parameters retrieved from eight instrumental measurements for the GOES-R PLT
 
 
 <table>
-
+<tbody>
 <tr>
   <th>Types</th>
   <th>Instrument</th>
   <th>Measurement</th>
   <th>Displayed Parameter</th>
 </tr>
+</tbody>
 
+<tbody>
 <tr>
-  <td rowspan="4">Satellite</td>
+  <td rowSpan="4">Satellite</td>
   <td>ABI (GOES-R Advanced Baseline Imager) IR band</td>
   <td>Reflectance</td>
   <td>Channel 13 T_B</td>
 </tr>
+</tbody>
+
+<tbody>
 <tr>
   <td>ABI (GOES-R Advanced Baseline Imager) IR band</td>
   <td>Reflectance</td>
   <td>Intensity (energy)</td>
 </tr>
+</tbody>
+
+<tbody>
 <tr>
-  <td rowspan = "2">ISS-LIS (Lightning Imaging Sensor)</td>
-  <td rowspan = "2">Optical energy density</td>
+  <td rowSpan = "2">ISS-LIS (Lightning Imaging Sensor)</td>
+  <td rowSpan = "2">Optical energy density</td>
   <td>Intensity (energy)</td>
 </tr>
+</tbody>
+
+<tbody>
 <tr>
   <td>Intensity (radiance)</td>
 </tr>
+</tbody>
 
+<tbody>
 <tr>
   <td>Ground network</td>
   <td>LMA (Lightning Mapping Array)</td>
   <td>60 MHz RF radiation</td>
   <td>Lightning source</td>
 </tr>
+</tbody>
 
+<tbody>
 <tr>
-  <td rowspan="5">Satellite</td>
-  <td rowspan="2">CRS (Cloud Radar System, w-band)</td>
+  <td rowSpan="5">Satellite</td>
+  <td rowSpan="2">CRS (Cloud Radar System, w-band)</td>
   <td>Reflectivity</td>
   <td>Reflectivity</td>
 </tr>
+</tbody>
+
+<tbody>
 <tr>
   <td>Doppler Velocity</td>
   <td>Doppler Velocity</td>
 </tr>
+</tbody>
 
+<tbody>
 <tr>
   <td>CPL (Cloud Physics Lidar)</td>
   <td>Attenuated total backscattering</td>
   <td>Attenuated total backscattering</td>
 </tr>
+</tbody>
 
+<tbody>
 <tr>
   <td>FEGS (Fly’s Eye GLM Simulator)</td>
   <td>Optical energy</td>
   <td>Detected lightning FOV</td>
 </tr>
+</tbody>
 
+<tbody>
 <tr>
   <td>LIP (Lightning Instrument Package)</td>
   <td>Electric field</td>
   <td>Electric vector</td>
 </tr>
-
-
+</tbody>
 
 </table>

@@ -7,7 +7,7 @@ The source code is available in the GitLab repository.
 
 
 ```
-Git clone https://gitlab.com/ghrc-cloud/fcx-backend
+git clone https://gitlab.com/ghrc-cloud/fcx-backend
 ```
 
 ## Deployment
