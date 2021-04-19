@@ -1,5 +1,6 @@
 ---
 title: Front End
+slug: /
 ---
 
 ## Field Campaign Explorer (FCX) basic instructions

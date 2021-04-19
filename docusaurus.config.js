@@ -1,20 +1,22 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
+  
   title: 'FCX Documentation',
   tagline: 'FCX Documentation',
-  url: 'https://fcx-docs.github.io',
-  baseUrl: '/fcx-docs/',
+  url: 'https://anupamdahal.github.io',
+  // baseUrl: '/fcx-documentation/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/logos/fcx-logo.png',
+  favicon: 'static/img/logos/fcx-logo.png',
   organizationName: 'anupamdahal', // Usually your GitHub org/user name.
-  projectName: 'fcx-docs', // Usually your repo name.
+  projectName: 'fcx-documentation', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'FCX Documentation',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logos/fcx-logo.png',
+        src: 'static/img/logos/fcx-logo.png',
       },
     },
     footer:{},
@@ -69,10 +71,11 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
+          routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/anupamdahal/fcx-docs.git',
+            'https://github.com/anupamdahal/fcx-documentation.git',
         },
         // blog: {
         //   showReadingTime: true,
@@ -83,6 +86,7 @@ module.exports = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+        blog: false
       },
     ],
   ],
